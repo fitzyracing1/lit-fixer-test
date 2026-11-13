@@ -1,2 +1,7 @@
 { "name": "lit-fixer-test", "version": "1.0.0", "private": true, "license": "MIT",
-  "scripts": { "test": "node --test test/" } }
+  "scripts": { "test": "node --test test/" },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/fitzyracing1"
+  }
+}
